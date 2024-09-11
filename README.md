@@ -1,6 +1,6 @@
 # Hola, soy Rafael Sosa Linares 👋
 
-Bienvenido a mi perfil de GitHub. Soy un **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**. Me apasiona la tecnología y estoy en busca de nuevas oportunidades para seguir creciendo profesionalmente.
+Bienvenido a mi perfil de GitHub. Estoy acabando mis estudios de **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**, buscando una empresa donde realizar mis prácticas. Me apasiona la tecnología y estoy en busca de nuevas oportunidades para seguir creciendo profesionalmente.
 
 ## 🚀 Proyectos Destacados
 
