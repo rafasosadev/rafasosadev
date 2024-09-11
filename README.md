@@ -1,4 +1,4 @@
-# Hola, soy Rafael Sosa Linares👋
+# Hola, soy Rafael Sosa Linares 👋
 
 Bienvenido a mi perfil de GitHub. Soy un **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**. Me apasiona la tecnología y estoy en busca de nuevas oportunidades para seguir creciendo profesionalmente.
 
@@ -13,9 +13,6 @@ Bienvenido a mi perfil de GitHub. Soy un **Técnico Superior en Desarrollo de Ap
 - **Frameworks y Librerías**: React, Next.js, Tailwind CSS
 - **Herramientas**: Stripe, MySQL, PostgreSQL, Git
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rafasosadev&show_icons=true&hide_title=false&count_private=true&hide=prs&include_all_commits=true)
 
 ## 📫 Cómo Contactarme
 
