@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Rafael Sosa Linares👋
 
-<!--
-**rafasosadev/rafasosadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**. Me apasiona la tecnología y estoy en busca de nuevas oportunidades para seguir creciendo profesionalmente.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Portfolio](https://github.com/rafasosadev/portfolio1)**: Mi portafolio personal, donde puedes ver algunos de los proyectos en los que he trabajado.
+- **[SosaCars](https://github.com/rafasosadev/SosaCars)**: Aplicación de alquiler de coches desarrollada con React y Node.js.
+
+## 🔧 Habilidades
+
+- **Lenguajes**: HTML5, CSS3, JavaScript, Python, C#
+- **Frameworks y Librerías**: React, Next.js, Tailwind CSS
+- **Herramientas**: Stripe, MySQL, PostgreSQL, Git
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rafasosadev&show_icons=true&hide_title=false&count_private=true&hide=prs&include_all_commits=true)
+
+## 📫 Cómo Contactarme
+
+- **Correo Electrónico**: [rafasl1993@gmail.com](mailto:rafasl1993@gmail.com)
+- **LinkedIn**: [linkedin.com/in/rafaelsosa93](https://www.linkedin.com/in/rafaelsosa93/)
