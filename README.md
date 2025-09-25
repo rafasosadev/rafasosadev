@@ -11,9 +11,10 @@ Busco una oportunidad profesional (híbrida o telemática) donde pueda aplicar l
 
 ## 🚀 Proyectos Destacados
 
-- **[Portfolio](https://github.com/rafasosadev/portfolio1)**: Mi portafolio personal, donde muestro algunos de los proyectos en los que he trabajado.  
+- **[Portfolio 2.0](https://rafasosaportfolio2-0.vercel.app/)**: Mi segundo portafolio personal con react, más optimizado
 - **[SosaCars](https://github.com/rafasosadev/SosaCars)**: Aplicación de alquiler de coches desarrollada con **React** y **Node.js**.  
-- **[Celiacosmy](https://github.com/rafasosadev/Celiacosmy)**: Proyecto final DAM, aplicación móvil en **Kotlin** con **Firebase y Firestore**, enfocada en la gestión y compartición de recetas.  
+- **[Celiacosmy](https://github.com/rafasosadev/Celiacosmy)**: Proyecto final DAM, aplicación móvil en **Kotlin** con **Firebase y Firestore**, enfocada en la gestión y compartición de recetas.
+- **[Portfolio](https://github.com/rafasosadev/portfolio1)**: Mi portafolio personal antiguo, donde muestro algunos de los proyectos en los que he trabajado.   
 
 ---
 
